@@ -27,6 +27,7 @@ A modern, scalable, and SEO-optimized developer portfolio built with **Next.js**
 .
 ├── app/                 # App Router pages and layouts
 ├── components/          # Reusable UI components
+├── data/                # 
 ├── lib/                 # Utility functions
 ├── public/              # Static assets
 └── README.md
